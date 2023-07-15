@@ -1,6 +1,6 @@
 package main
 
-import "github.com/mhomura/Login_Project/Login_backend/api"
+import "api"
 
 func main() {
 	api.Run()

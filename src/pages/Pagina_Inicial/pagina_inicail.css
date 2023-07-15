@@ -2,17 +2,17 @@ h4 {
   text-align: center;
   color: whitesmoke;
   font-size: 25px;
-  font-family: Gotham;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 h1.paginaprincipal {
-  font-family: Gotham;
+  font-family: 'Roboto', sans-serif;
   font-size: 100px;
   text-align: center;
   color: white;
 }
 body{
-  background-image: url('../../assets/chicago.jpg') ;
   width: auto;
 
 }
@@ -20,7 +20,8 @@ body{
 section.menu {
   text-align: center;
   justify-content: center;
-  font-family: Gotham;
+    font-family: 'Roboto', sans-serif;
+
   margin-top: 15px;
   font-size: 25px;
   align-items: center;
